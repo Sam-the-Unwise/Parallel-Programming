@@ -6,3 +6,5 @@ This material was used in Northern Arizona University's CS499 Parallel Programmi
 
 # What this repository is about
 This repository contains multiple folders, each containing different types of parallel-designed programs
+
+Underneath each folder is an additional 'Read Me' file that will describe the function of those files in further detail
